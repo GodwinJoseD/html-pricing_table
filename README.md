@@ -1,1 +1,1 @@
-# html-pricing_table
+# css-pricing-table
